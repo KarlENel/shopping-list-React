@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
       <h1>Shopping List</h1>
+      {/* Render the ShoppingList component */}
+      <ShoppingList />
     </div>
   );
 }
